@@ -2,7 +2,7 @@ import React from 'react'
 
 export const HomeVideo = () => {
   return (
-    <div className='flex flex-col gap-10 py-20'>
+    <div className='flex flex-col gap-10 py-20 xl:max-w-7xl mx-auto'>
         <div>
             <h2 className='italic font-serif text-gray-700 leading-relaxed text-3xl text-center'>Let me help make your vision<br></br>come to life</h2>
         </div>
