@@ -5,11 +5,6 @@ import React, { useState } from 'react'
 
 const HomeExtraProjects = () => {
 
-    const [showImage, setShowImage] = useState(false)
-
-    const handleShowImage = () => {
-        setShowImage(!showImage)
-    }
 
   return (
     <section className='max-w-7xl mx-auto py-20'>

@@ -6,9 +6,9 @@ export const HomeAboutSection = () => {
       <div className="max-w-7xl mx-auto grid md:grid-cols-3 gap-8 items-center">
         {/* Left - Quote */}
         <div className="md:col-span-1 text-left">
-          <p className="italic text-lg font-serif text-gray-700 leading-relaxed">
-            Vel velit sint sed <span className="text-[#b86d3c]">alias earum</span><br />
-            qui molestiae vero <span className="text-[#b86d3c]">eum</span><br />
+          <p className="text-black" style={{ fontFamily: "'Seaweed Script', cursive", fontSize: '2rem' }}>
+            Vel velit sint sed alias earum
+            qui molestiae vero
             itaque veritatis.
           </p>
         </div>
